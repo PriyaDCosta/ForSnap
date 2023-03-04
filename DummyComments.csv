@@ -1,12 +1,12 @@
-﻿Comment ID,User ID,Post ID,Comment Text
-1,123,123,"I totally agree, this product is amazing!"
-2,456,123,"I'm not sure I agree with your argument, can you provide more evidence to support your claim?"
-3,789,567,"This post is amazing, I learned so much!. Thank you for sharing!"
-4,111,567,I don't think this is a relevant topic to discuss. ?
-5,456,123,Can you please shut up! Nobody needs to know your opinion.
-6,456,123,Get Lost!!!!!
-7,456,123,Crazy person!
-8,101,567,The sun rises in the east 
-9,201,567,Subsribe to me too!
-10,301,567,Whats up?
-,,,
+"Comment ID,User ID,Post ID,Comment Text"
+"1,123,123,""I totally agree, this product is amazing!"""
+"2,456,123,""I'm not sure I agree with your argument, can you provide more evidence to support your claim?"""
+"3,789,567,""This post is amazing, I learned so much!. Thank you for sharing!"""
+"4,111,567,""I don't think this is a relevant topic to discuss.?"""
+"5,456,123,""Can you please shut up! Nobody needs to know your opinion."""
+"6,456,123,""Get Lost!!!!!"""
+"7,456,123,""Crazy person!"""
+"8,101,567,""The sun rises in the east"" "
+"9,201,567,""Subsribe to me too!"""
+"10,301,567,""Whats up?"""
+",,,"
